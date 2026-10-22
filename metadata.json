@@ -1,0 +1,6 @@
+{
+  "name": "ShiftFlow",
+  "description": "Track working hours, shifts, dynamic hourly rates, weekly and monthly summaries, and maintain an organized history with record archiving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
